@@ -5,8 +5,8 @@ body {
     display: flex;
     flex-direction: column;
     text-align: center;
-    justify-content: center;
     align-items: center;
+    justify-content: center;
     font-family: 'Source Sans Pro', sans-serif;
     font-size: .9rem;
     background-color: hsl(200, 69%, 20%);
